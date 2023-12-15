@@ -106,4 +106,3 @@ For each city, use the Geoapify API to find the first hotel located within 10,00
 
 Add the hotel name and the country as additional information in the hover message for each city on the map as in the following image:
 
-Open the .gitignore file and type the following code on the first line:
